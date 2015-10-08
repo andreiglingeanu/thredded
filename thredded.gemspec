@@ -35,7 +35,6 @@ Gem::Specification.new do |s|
   s.add_dependency 'bourbon'
   s.add_dependency 'neat'
   s.add_dependency 'bitters'
-  s.add_dependency 'sprockets-es6'
   s.add_dependency 'jquery-rails'
 
   # test dependencies
