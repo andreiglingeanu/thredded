@@ -14,7 +14,6 @@ require 'bitters'
 require 'bourbon'
 require 'jquery/rails'
 require 'neat'
-require 'sprockets/es6'
 
 require 'thredded/engine'
 require 'thredded/errors'
