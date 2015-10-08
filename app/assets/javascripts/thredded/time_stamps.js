@@ -7,4 +7,4 @@ jQuery(function ($) {
   $.timeago.settings.allowFuture = true;
   $(COMPONENT_SELECTOR).timeago();
   $.timeago.settings.allowFuture = allowFutureWas;
-}););
+});
